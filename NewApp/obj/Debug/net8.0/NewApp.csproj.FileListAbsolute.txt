@@ -1,0 +1,15 @@
+E:\BaiThucHanh\NewApp\bin\Debug\net8.0\NewApp.exe
+E:\BaiThucHanh\NewApp\bin\Debug\net8.0\NewApp.deps.json
+E:\BaiThucHanh\NewApp\bin\Debug\net8.0\NewApp.runtimeconfig.json
+E:\BaiThucHanh\NewApp\bin\Debug\net8.0\NewApp.dll
+E:\BaiThucHanh\NewApp\bin\Debug\net8.0\NewApp.pdb
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\NewApp.AssemblyInfoInputs.cache
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\NewApp.AssemblyInfo.cs
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\NewApp.csproj.CoreCompileInputs.cache
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\NewApp.sourcelink.json
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\NewApp.dll
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\refint\NewApp.dll
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\NewApp.pdb
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\NewApp.genruntimeconfig.cache
+E:\BaiThucHanh\NewApp\obj\Debug\net8.0\ref\NewApp.dll
