@@ -19,7 +19,7 @@ public void EnterData()
 }
 public void Display()
     {
-    System.Console.WriteLine("{0} - {1} - {2}tuoi - {3}", manhanvien, Ten, Tuoi, Luong);
+    System.Console.WriteLine("{0} - {1} - {2}tuoi - {3}"), manhanvien, Ten, Tuoi, Luong;
 }
     }
 }
