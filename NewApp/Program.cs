@@ -10,5 +10,6 @@ using NewApp.Model;
             ps1. Address = "Hà Nam";
             ps1.Age = 22;
             ps1.Display();
+            ps2.Display();
         }
     }
